@@ -1,0 +1,71 @@
+1562778437014	Delete element
+1562778458080	Rename package 'com.example.javasummerschool'
+1562778482736	Move compilation unit
+1562778852632	Move 'hello.jsp' to 'helloworld'
+1562778857519	Rename resource 'hello.jsp'
+1562778880713	Rename resource 'helloworld'
+1562778895189	Rename resource 'helloworld.jsp'
+1562779293383	Delete element
+1562779438448	Delete element
+1562779669656	Delete element
+1562779948108	Delete element
+1562780212372	Delete element
+1562780237533	Copy compilation unit
+1562780248880	Delete element
+1562780285019	Move 'reqdispatcher.jsp' to 'requestdispatcher'
+1562780316496	Move 'userform.jsp' to 'requestdispatcher'
+1562780432956	Move 2 resources to 'requestdispatcher'
+1562780483547	Rename type 'RedirecrServlet'
+1562780491565	Copy compilation unit
+1562780496804	Delete element
+1562780526452	Rename resource 'ex-5-redirect.jsp'
+1562780668227	Delete element
+1562780684607	Delete element
+1562780712079	Copy compilation unit
+1562780716647	Delete element
+1562781006146	Delete element
+1562781059403	Delete element
+1562781067619	Delete element
+1562781085550	Delete element
+1562781655802	Copy compilation units
+1562781662373	Delete elements
+1562781700057	Copy compilation unit
+1562781706551	Rename type 'AtmServlet'
+1562781805566	Copy file
+1562781810255	Delete element
+1562781823852	Rename resource 'atm.jsp'
+1562782044831	Copy file
+1562782175723	Delete element
+1562782187505	Copy compilation unit
+1562782194044	Delete element
+1562782257303	Copy compilation unit
+1562782261459	Delete element
+1562782312120	Copy file
+1562782316071	Delete element
+1562782426696	Delete element
+1562782459369	Delete element
+1562782487914	Delete element
+1562782492906	Delete element
+1562782523975	Delete element
+1562783015117	Copy compilation unit
+1562783020026	Delete element
+1562783032420	Rename type 'HttpSessionServlet'
+1562783284276	Copy compilation unit
+1562783289094	Delete element
+1562783423384	Copy compilation units
+1562783430112	Delete elements
+1562783562271	Move 'main.jsp' to 'servletcollaboration'
+1562783821460	Delete element
+1562783859456	Move 'servlet-exception.jsp' to 'exceptionhandling'
+1562783900749	Copy compilation unit
+1562783907576	Delete element
+1562784015722	Copy compilation unit
+1562784019912	Delete element
+1562784050017	Move 2 resources to 'cookies'
+1562784147893	Copy compilation units
+1562784466349	Copy compilation unit
+1562784471650	Delete element
+1562784494396	Delete elements
+1562784578901	Delete element
+1562784608653	Copy compilation units
+1562784613915	Delete elements

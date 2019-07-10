@@ -1,0 +1,8 @@
+package com.obss.javasummerschool.requestparams;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet("/RequestParamsServlet")
+public class RequestParamsServlet {
+
+}

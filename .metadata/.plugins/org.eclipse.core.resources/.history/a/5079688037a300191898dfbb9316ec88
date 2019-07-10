@@ -1,0 +1,9 @@
+package com.obss.javasummerschool;
+
+public class StringUtils {
+	
+	public static String toLowerCase(String s) {
+		return s == null ? "" : s.toLowerCase();
+	}
+
+}
