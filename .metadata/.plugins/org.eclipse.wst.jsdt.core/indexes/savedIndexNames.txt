@@ -1,16 +1,9 @@
 INDEX VERSION 1.4+/Users/yrazlik/Projects/web/JavaSummerSchool/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-905887189.index
-2325506723.index
-451713646.index
-3843231027.index
-847599710.index
-1544740069.index
-1189972371.index
-1229287389.index
+2463100286.index
+495321748.index
 4285682155.index
-686661699.index
-1262920993.index
+1229287389.index
+1544740069.index
 2519912489.index
-299497103.index
-341198454.index
-726823843.index
+3777085487.index
+686661699.index
