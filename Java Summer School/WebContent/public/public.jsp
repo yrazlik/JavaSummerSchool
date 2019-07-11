@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="/private/secured.jsp">Go to secured page</a> 
+	<a href="../private/secured.jsp">Go to secured page</a> 
 </body>
 </html>
